@@ -1,0 +1,92 @@
+[
+    {
+      "id": "ab957141-5e41-4f32-b618-c9c3035e5b38",
+      "courseName": "Certified Ethical Hacking MasterClass In Bangla",
+      "image": "https://www.msbacademy.com/file/2020/02/Untitled-1-1000x550.webp",
+      "mainPrice": 12000,
+      "offerPrice": 5000,
+      "teacher": "Aditta Chakraborty",
+      "totalReview": 1196,
+      "totalStar": 4500
+    },
+    {
+      "id": "4213c805-85a6-46c1-ba33-2880ce171333",
+      "courseName": "The Complete Full-Stack JavaScript Course In Bangla",
+      "image": "https://www.msbacademy.com/file/2020/08/jAVASCRIPT-COVER-1000x550.jpg",
+      "mainPrice": 13000,
+      "offerPrice": 4000,
+      "teacher": "Md. Sakib Khan",
+      "totalReview": 1137,
+      "totalStar": 5685
+    },
+    {
+      "id": "ea003df8-d7bb-4264-b69a-f66acbbcc733",
+      "courseName": "Complete Android App Development MasterClass In Bangla",
+      "image": "https://www.msbacademy.com/file/2018/12/android-app-development-course-in-Bangla-1000x550.webp",
+      "mainPrice": 24000,
+      "offerPrice": 6000,
+      "teacher": "Nasim Haider Quoraishi",
+      "totalReview": 2538,
+      "totalStar": 11000
+    },
+    {
+      "id": "f8828e74-9b83-4391-9955-e2763b663066",
+      "courseName": "Java Programming MasterClass For Softwere Development",
+      "image": "https://www.msbacademy.com/file/2020/12/Java-Cover-1000x550.webp",
+      "mainPrice": 10000,
+      "offerPrice": 3000,
+      "teacher": "Nasim Haider Quoraishi",
+      "totalReview": 620,
+      "totalStar": 3000
+    },
+    {
+      "id": "b42e50df-85b5-4d57-9bb7-6babdd17d0d7",
+      "courseName": "Basic To Advanced T-Shirt Design MasterClass In Bangla",
+      "image": "https://www.msbacademy.com/file/2019/04/sifat-1000x550.png",
+      "mainPrice": 9000,
+      "offerPrice": 2400,
+      "teacher": "Shahariar Noman Sifat",
+      "totalReview": 520,
+      "totalStar": 2160
+    },
+    {
+      "id": "07ccd5e9-4bb9-4f92-ad48-5a7b27c8f525",
+      "courseName": "Wordpress Them & Plugin Customization MasterClass",
+      "image": "https://www.msbacademy.com/file/2020/02/Wordpress-Masterclass-1000x550.webp",
+      "mainPrice": 7000,
+      "offerPrice": 2000,
+      "teacher": "Shahariar Noman Sifat",
+      "totalReview": 1684,
+      "totalStar": 10000
+    },
+    {
+      "id": "8f31efad-a88d-429b-8d51-14b1cad39a7f",
+      "courseName": "Ultimate Sql Bootcamp Enter The World Of Data SciEnce",
+      "image": "https://www.msbacademy.com/file/2020/06/SQL-for-Data-science-1-1000x550.webp",
+      "mainPrice": 10000,
+      "offerPrice": 3000,
+      "teacher": "Akm Mahmudul Islam",
+      "totalReview": 838,
+      "totalStar": 4400
+    },
+    {
+      "id": "31396ece-e777-4077-8e04-035fa367a5cc",
+      "courseName": "Professional 3D Commercial Video Animation In After Effects",
+      "image": "https://www.msbacademy.com/file/2018/12/AE-3d-Comm-2-1000x550.webp",
+      "mainPrice": 5000,
+      "offerPrice": 2000,
+      "teacher": "Md Eunus Uddin",
+      "totalReview": 396,
+      "totalStar": 1500
+    },
+    {
+      "id": "df89de22-e56d-4531-ad73-7f7751c2ef0a",
+      "courseName": "Build Multi-Vendor E-Commerce & Dropshipping Website Today",
+      "image": "https://www.msbacademy.com/file/2018/10/eCoommerce-Cover-1000x550.webp",
+      "mainPrice": 7000,
+      "offerPrice": 3000,
+      "teacher": "Masuk Sarker Batista",
+      "totalReview": 3178,
+      "totalStar": 14000
+    }
+  ]

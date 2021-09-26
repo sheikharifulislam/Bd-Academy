@@ -1,0 +1,34 @@
+.shop-and-cart-container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.all-products {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 5%;
+}
+
+.products-cart-section {
+  width: 25%;
+  text-align: center;
+  position: relative;
+}
+
+.product-cart {
+  position: sticky;
+  top: 0;
+  border: 1px solid blue;
+  padding-bottom: 50px;
+}
+
+.select-all-product {
+  margin-top: 20px;
+}
+
+.added-curse-name {
+  margin-top: 10px;
+  font-size: 12px;
+}

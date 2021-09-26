@@ -1,0 +1,53 @@
+.header-section {
+  background-color: #333;
+}
+
+.header-container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.academy-logo {
+  width: 50%;
+}
+
+.academy-logo img {
+  height: 50px;
+}
+
+.menu {
+  width: 50%;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+}
+
+.menu ul li a {
+  display: block;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #fff;
+  padding: 15px 35px;
+  font-size: 18px;
+  transition: all 1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -ms-transition: all 1s;
+  -o-transition: all 1s;
+}
+
+.menu ul li a:hover {
+  background-color: #fff;
+  color: #000;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
