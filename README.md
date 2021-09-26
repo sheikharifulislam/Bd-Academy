@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[My Project live link](https://bd-academy.netlify.app/).
+
+1.It is a online learnning academy website
+2.You can buy courses from here
+3 you can cart course for here
 
 ## Available Scripts
 
@@ -68,4 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # the-superhero-direction-sheikharifulislam
